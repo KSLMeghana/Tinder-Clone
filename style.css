@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  .flex {
+    display: flex;
+  }
+  .justify-between {
+    justify-content: space-between;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .px-16 {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+  .py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  .absolute {
+    position: absolute;
+  }
+  .w-full {
+    width: 100%;
+  }
+  .bg-black {
+    background-color: black;
+  }
+  .text-white {
+    color: white;
+  }
+  .font-mono {
+    font-family: monospace;
+  }
+  /* Add TailwindCSS classes as needed */
+  
